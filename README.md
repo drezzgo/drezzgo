@@ -5,8 +5,6 @@
     </h3>
 </div>
 
---
-
 <div id="badges" aling="center"
     <a href="https://twitter.com/drezzgo" target="_blank">
         <img src="https://img.shields.io/twitter/url?color=blue&label=twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Fmobile.twitter.com%2Fdrezzgo" 
@@ -21,3 +19,11 @@
 - How to reach me **agongoraramirez@gmail.com**
 - i´m currently **Avanced Python, Scrapping, Web3 & React**
 - Personal social media (all): drezzgo
+
+<div align="left"> 
+    <h3>🦉🧑🏽‍💻🪢 Languages and tools:</h3>
+    <div>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="cplusplus"
+         width="40" height="40"/>&nbsp;;
+    </div>
+</div>
