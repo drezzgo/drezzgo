@@ -1,7 +1,7 @@
 <div id="header" aling="center">
     <h1 aling="center">Hi✌️, I´m Andres</h1>
     <h3 aling="center">A passionate student of technology in data systematization and telematics engineering
-        from Colombia, in the Francisco Jose de Caldas University, Currently studying the fifth semester (5 of 10 semester)
+        from Colombia, in the Francisco Jose de Caldas University, Currently studying the fifth semester (6 of 10 semester)
     </h3>
 </div>
 
